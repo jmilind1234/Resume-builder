@@ -1,0 +1,38 @@
+#name_heading {
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-left: 3px;
+}
+
+#profession {
+    color: grey;
+    margin: 3px;
+}
+
+#workplace {
+    margin: 3px;
+    color: grey;
+}
+
+#personalDetails {
+    /* border: 1px solid black;
+    border-radius: 10px; */
+}
+
+#professionalDetails {
+    /* border: 1px solid black; */
+    /* border-radius: 10px; */
+}
+
+#vertical-seperator {
+    height: 150px;
+    border: 1px solid grey;
+    width: 0px;
+}
+
+#edit-intro {
+    position: absolute;
+    right: 0px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
